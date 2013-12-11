@@ -1,0 +1,42 @@
+﻿<Window x:Class="MetricSPlat_Kinect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF"
+        Title="Visualização de Dados v0.1 - ICMC" Height="570" Width="868" Loaded="Window_Loaded"
+    xmlns:my="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers" 
+        Closing="Window_Closing" WindowState="Normal" ResizeMode="NoResize">
+
+    <Canvas Name="MainCanvas" Height="491" Width="846">
+
+        <Menu Name="testemenu" Height="22" Width="867" Canvas.Left="-9" Canvas.Top="-24">
+        <MenuItem Header="File">
+                <MenuItem Header="Open" Click="MenuItem_Click_1">
+                </MenuItem>
+                <MenuItem Header="Exit" Click="MenuItem_Click_2">
+                </MenuItem>
+        </MenuItem>
+        <MenuItem Header="Help">
+                <MenuItem Header="View Help" Click="MenuItem_Click_3">
+                </MenuItem>
+                <MenuItem Header="About" Click="MenuItem_Click_4">
+                </MenuItem>
+        </MenuItem>
+        </Menu>
+        <my:KinectColorViewer Canvas.Left="-199" Canvas.Top="572" Width="0" Height="0" Name="kinectColorViewer1" 
+                              Kinect="{Binding ElementName=kinectSensorChooser1, Path=Kinect}" Panel.ZIndex="5" />
+        <my:KinectSensorChooser Canvas.Left="-164" Canvas.Top="608" Name="kinectSensorChooser1" Width="0" Height="0" Panel.ZIndex="5" />
+        <sharpGL:OpenGLControl Canvas.Top="12" Width="600" Height="474" Name="openGLProjectionControl" 
+                               OpenGLDraw="OpenGLControl_OpenGLDraw"
+                               OpenGLInitialized="OpenGLFirstControl_OpenGLInitialized"
+                               Resized="OpenGLFirstControl_Resized" Panel.ZIndex="-10" Canvas.Left="234" MouseMove="openGLProjectionControl_MouseMove" Loaded="openGLProjectionControl_Loaded"/>
+        <!--985-->
+        <Button Canvas.Left="93" Canvas.Top="125" Content="Rotate Z +" Height="23" Name="button1" Width="75" Click="button1_Click" />
+        <Button Canvas.Left="12" Canvas.Top="125" Content="Rotate Z -" Height="23" Name="button2" Width="75" Click="button2_Click" />
+        <Button Canvas.Left="12" Canvas.Top="154" Content="Rotate Y -" Height="23" Name="button3" Width="75" Click="button3_Click" />
+        <Button Canvas.Left="93" Canvas.Top="154" Content="Rotate Y +" Height="23" Name="button4" Width="75" Click="button4_Click" />
+        <Button Canvas.Left="93" Canvas.Top="183" Content="Zoom +" Height="23" Name="button5" Width="75" Click="button5_Click" MouseWheel="button5_MouseWheel" />
+        <Button Canvas.Left="12" Canvas.Top="183" Content="Zoom -" Height="23" Name="button6" Width="75" Click="button6_Click" />
+        <Slider Canvas.Left="12" Canvas.Top="425" Height="25" Name="sliderRes" Width="201" Maximum="30" />
+        <Button Canvas.Left="12" Canvas.Top="456" Content="Button" Height="23" Name="button7" Width="75" Click="button7_Click" />
+    </Canvas>
+</Window>

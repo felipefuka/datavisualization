@@ -1,0 +1,72 @@
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\suporte\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rafox\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mira\Dropbox\TCC\Projeto\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog

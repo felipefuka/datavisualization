@@ -1,0 +1,113 @@
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\Fun with Programming\Public\MetricSPlat_Kinect\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piderman\Desktop\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Form1.resources
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Form1.resources
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Form1.resources
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+G:\IC Visualizacao de Dados\Fun with Programming\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Form1.resources
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piderman\Desktop\IC\IC Visualizacao de Dados\C#\Public\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe.config
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.exe
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.pdb
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.exe
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\MetricSPlat_Kinect.pdb
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.dll
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\SharpGL.WPF.dll
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\bin\Debug\VrpnNet.dll
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\App.g.cs
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect_MarkupCompile.cache
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.g.resources
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Form1.resources
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\MetricSPlat_Kinect.Properties.Resources.resources
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HJSILVA\Desktop\Visualizacao de Dados\Main\SkeletalTracking\obj\x86\Debug\GenerateResource.write.1.tlog
